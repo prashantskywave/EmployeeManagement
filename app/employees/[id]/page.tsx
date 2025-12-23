@@ -1,4 +1,4 @@
-//import { employees } from "@/data/employees";
+
 
 async function getEmployee(id: string) {
   const res = await fetch(
